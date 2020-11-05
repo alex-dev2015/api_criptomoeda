@@ -1,0 +1,15 @@
+{
+  "name": "api_criptomoedas",
+  "version": "1.0.0",
+  "description": "Api para requisição de criptomoedas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Sousa",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "type": "module"
+}
